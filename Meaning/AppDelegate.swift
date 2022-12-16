@@ -9,9 +9,7 @@ import UIKit
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
-
-
-
+    // Open AI secret key: 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
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         return true
